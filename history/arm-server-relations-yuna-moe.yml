@@ -1,7 +1,7 @@
 url: https://relations.yuna.moe/api/ids?id=1337&source=anilist
-status: down
+status: up
 code: 200
-responseTime: 170
-lastUpdated: 2022-09-28T13:12:50.642Z
+responseTime: 353
+lastUpdated: 2022-09-28T13:16:08.029Z
 startTime: Wed Sep 28 2022 13:08:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
