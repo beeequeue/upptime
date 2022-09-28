@@ -1,26 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: BeeeQueue # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: arm-server (relations.yuna.moe)
+    url: https://relations.yuna.moe/api/ids?id=1337&source=anilist
+    maxResponseTime: 2500
+  - name: arm-server (arm.haglund.dev)
+    url: https://arm.haglund.dev/api/ids?id=1337&source=anilist
+    maxResponseTime: 2500
+  - name: dota-matches-api
+    url: https://dota-matches-api.beequeue.workers.dev/v1/matches
+    maxResponseTime: 1000
+  - name: stratroulette.net
+    url: https://stratroulette.net
+    maxResponseTime: 1500
+  - name: siege.stratroulette.net
+    url: "https://siege.stratroulette.net/graphql?query=%7Bstrat(shortId%3A2)%7BshortId%7D%7D"
+    maxResponseTime: 2500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.haglund.dev
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "The status of my websites and services."
+  introMessage: ""
   navbar:
     - title: Status
       href: /
