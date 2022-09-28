@@ -13,7 +13,7 @@ sites:
     url: https://dota-matches-api.beequeue.workers.dev/v1/matches
     maxResponseTime: 1000
   - name: stratroulette.net
-    url: https://stratroulette.net
+    url: https://test.stratroulette.net
     maxResponseTime: 1500
     __dangerous__body_down_if_text_missing: 'div id="app"'
   - name: siege.stratroulette.net
