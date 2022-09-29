@@ -1,7 +1,7 @@
 url: https://dota-matches-api.beequeue.workers.dev/v1/matches
-status: down
-code: 500
-responseTime: 401
-lastUpdated: 2022-09-29T16:24:52.308Z
+status: up
+code: 200
+responseTime: 61
+lastUpdated: 2022-09-29T16:41:34.827Z
 startTime: Wed Sep 28 2022 13:08:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
