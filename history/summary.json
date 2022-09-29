@@ -40,19 +40,19 @@
     "url": "https://dota-matches-api.beequeue.workers.dev/v1/matches",
     "icon": "https://favicons.githubusercontent.com/dota-matches-api.beequeue.workers.dev",
     "slug": "dota-matches-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 420,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 387,
+    "timeDay": 300,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2022-09-29": 0
+      "2022-09-29": 17
     }
   },
   {
