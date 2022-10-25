@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
-    "timeDay": 1219,
+    "timeDay": 293,
     "timeWeek": 555,
     "timeMonth": 435,
     "timeYear": 435,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 346,
+    "timeDay": 97,
     "timeWeek": 230,
     "timeMonth": 201,
     "timeYear": 201,
@@ -78,17 +78,19 @@
     "url": "https://siege.stratroulette.net/graphql?query=%7Bstrat(shortId%3A2)%7BshortId%7D%7D",
     "icon": "https://icons.duckduckgo.com/ip3/siege.stratroulette.net.ico",
     "slug": "siege-stratroulette-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 195,
-    "timeWeek": 225,
-    "timeMonth": 245,
-    "timeYear": 245,
-    "dailyMinutesDown": {}
+    "time": 332,
+    "timeDay": 1743,
+    "timeWeek": 608,
+    "timeMonth": 332,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2022-10-25": 0
+    }
   }
 ]
