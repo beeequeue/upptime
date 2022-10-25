@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 293,
-    "timeWeek": 555,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "time": 432,
+    "timeDay": 289,
+    "timeWeek": 558,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 97,
-    "timeWeek": 230,
+    "timeDay": 182,
+    "timeWeek": 238,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 393,
-    "timeDay": 427,
-    "timeWeek": 344,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 391,
+    "timeDay": 334,
+    "timeWeek": 340,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2022-09-29": 17
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 128,
-    "timeWeek": 162,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 151,
+    "timeDay": 193,
+    "timeWeek": 169,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://siege.stratroulette.net/graphql?query=%7Bstrat(shortId%3A2)%7BshortId%7D%7D",
     "icon": "https://icons.duckduckgo.com/ip3/siege.stratroulette.net.ico",
     "slug": "siege-stratroulette-net",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 1743,
-    "timeWeek": 608,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "87.74%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 407,
+    "timeDay": 2238,
+    "timeWeek": 898,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2022-10-25": 0
+      "2022-10-25": 177
     }
   }
 ]
