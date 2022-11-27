@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/arm.haglund.dev.ico",
     "slug": "arm-server-arm-haglund-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 189,
     "timeDay": 219,
     "timeWeek": 202,
     "timeMonth": 177,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2022-11-27": 0
+      "2022-11-27": 13
     }
   },
   {
@@ -42,18 +42,19 @@
     "url": "https://dota-matches-api.beequeue.workers.dev/v1/matches",
     "icon": "https://icons.duckduckgo.com/ip3/dota-matches-api.beequeue.workers.dev.ico",
     "slug": "dota-matches-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 443,
-    "timeDay": 295,
-    "timeWeek": 319,
-    "timeMonth": 500,
-    "timeYear": 443,
+    "time": 437,
+    "timeDay": 175,
+    "timeWeek": 286,
+    "timeMonth": 488,
+    "timeYear": 437,
     "dailyMinutesDown": {
+      "2022-11-27": 0,
       "2022-09-29": 17
     }
   },
