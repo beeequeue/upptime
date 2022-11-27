@@ -22,9 +22,9 @@
     "url": "https://arm.haglund.dev/api/ids?id=1337&source=anilist",
     "icon": "https://icons.duckduckgo.com/ip3/arm.haglund.dev.ico",
     "slug": "arm-server-arm-haglund-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 202,
     "timeMonth": 177,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 0
+    }
   },
   {
     "name": "dota-matches-api",
@@ -79,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/siege.stratroulette.net.ico",
     "slug": "siege-stratroulette-net",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 319,
     "timeDay": 192,
     "timeWeek": 255,
