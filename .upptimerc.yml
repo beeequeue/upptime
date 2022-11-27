@@ -10,8 +10,8 @@ sites:
     url: https://arm.haglund.dev/api/ids?id=1337&source=anilist
     maxResponseTime: 2500
   - name: dota-matches-api
-    url: https://dota-matches-api.beequeue.workers.dev/v1/matches
-    maxResponseTime: 1000
+    url: https://dota.haglund.dev/v1/matches
+    maxResponseTime: 3000
   - name: stratroulette.net
     url: https://stratroulette.net
     maxResponseTime: 1500
