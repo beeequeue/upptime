@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/arm.haglund.dev.ico",
     "slug": "arm-server-arm-haglund-dev",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "76.11%",
-    "uptimeWeek": "96.59%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.61%",
+    "uptimeDay": "76.58%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.61%",
     "time": 187,
     "timeDay": 157,
     "timeWeek": 185,
     "timeMonth": 174,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-11-27": 344
+      "2022-11-27": 337
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://siege.stratroulette.net/graphql?query=%7Bstrat(shortId%3A2)%7BshortId%7D%7D",
     "icon": "https://icons.duckduckgo.com/ip3/siege.stratroulette.net.ico",
     "slug": "siege-stratroulette-net",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.78%",
-    "time": 357,
-    "timeDay": 1212,
-    "timeWeek": 581,
-    "timeMonth": 311,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.77%",
+    "time": 355,
+    "timeDay": 971,
+    "timeWeek": 548,
+    "timeMonth": 310,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2022-11-27": 13,
+      "2022-11-27": 20,
       "2022-10-25": 177
     }
   }
