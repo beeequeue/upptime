@@ -67,19 +67,19 @@
     "url": "https://stratroulette.net",
     "icon": "https://icons.duckduckgo.com/ip3/stratroulette.net.ico",
     "slug": "stratroulette-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 0,
-    "timeWeek": 93,
-    "timeMonth": 100,
+    "timeDay": 61,
+    "timeWeek": 88,
+    "timeMonth": 99,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-19": 3
     }
   },
   {
@@ -90,7 +90,7 @@
     "status": "up",
     "uptime": "97.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.74%",
+    "uptimeWeek": "88.77%",
     "uptimeMonth": "94.20%",
     "uptimeYear": "97.80%",
     "time": 386,
