@@ -4,7 +4,7 @@
     "url": "https://relations.yuna.moe/api/ids?id=1337&source=anilist",
     "icon": "https://icons.duckduckgo.com/ip3/relations.yuna.moe.ico",
     "slug": "arm-server-relations-yuna-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "97.07%",
     "uptimeWeek": "99.58%",
