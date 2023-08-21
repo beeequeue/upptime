@@ -4,7 +4,7 @@
     "url": "https://relations.yuna.moe/api/ids?id=1337&source=anilist",
     "icon": "https://icons.duckduckgo.com/ip3/relations.yuna.moe.ico",
     "slug": "arm-server-relations-yuna-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 304,
     "timeYear": 423,
     "dailyMinutesDown": {
+      "2023-08-21": 0,
       "2023-03-07": 42,
       "2023-01-10": 31,
       "2023-01-09": 20,
