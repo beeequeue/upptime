@@ -1,7 +1,7 @@
 url: https://dota.haglund.dev/v1/matches
-status: down
-code: 500
-responseTime: 215
-lastUpdated: 2023-10-30T20:01:13.480Z
+status: up
+code: 200
+responseTime: 428
+lastUpdated: 2023-10-30T20:26:01.783Z
 startTime: 2022-09-28T13:08:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
