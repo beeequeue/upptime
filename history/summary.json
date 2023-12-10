@@ -74,18 +74,20 @@
     "url": "https://stratroulette.net",
     "icon": "https://icons.duckduckgo.com/ip3/stratroulette.net.ico",
     "slug": "stratroulette-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 82,
-    "timeWeek": 121,
-    "timeMonth": 96,
-    "timeYear": 106,
-    "dailyMinutesDown": {}
+    "time": 118,
+    "timeDay": 1111,
+    "timeWeek": 373,
+    "timeMonth": 162,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   },
   {
     "name": "siege.stratroulette.net",
