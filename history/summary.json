@@ -16,8 +16,7 @@
     "timeMonth": 253,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2023-03-07": 42,
-      "2023-01-10": 31
+      "2023-03-07": 42
     }
   },
   {
@@ -91,9 +90,9 @@
     "slug": "siege-stratroulette-net",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.25%",
     "time": 510,
     "timeDay": 1644,
@@ -101,7 +100,6 @@
     "timeMonth": 1571,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2024-01-09": 6,
       "2023-12-17": 865,
       "2023-11-28": 408,
       "2023-11-27": 6,
