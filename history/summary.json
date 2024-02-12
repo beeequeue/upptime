@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 416,
-    "timeDay": 201,
-    "timeWeek": 656,
-    "timeMonth": 457,
+    "timeDay": 328,
+    "timeWeek": 198,
+    "timeMonth": 465,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2023-03-07": 42
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 319,
-    "timeDay": 99,
-    "timeWeek": 134,
-    "timeMonth": 207,
-    "timeYear": 338,
+    "time": 318,
+    "timeDay": 11,
+    "timeWeek": 127,
+    "timeMonth": 201,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2023-03-29": 83,
       "2023-03-28": 592
@@ -49,13 +49,13 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 803,
-    "timeDay": 678,
-    "timeWeek": 492,
-    "timeMonth": 546,
-    "timeYear": 816,
+    "timeDay": 655,
+    "timeWeek": 550,
+    "timeMonth": 583,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2024-01-11": 42,
       "2023-11-26": 29,
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 61,
-    "timeWeek": 80,
-    "timeMonth": 107,
+    "timeDay": 72,
+    "timeWeek": 83,
+    "timeMonth": 104,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/siege.stratroulette.net.ico",
     "slug": "siege-stratroulette-net",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.72%",
-    "time": 530,
-    "timeDay": 167,
-    "timeWeek": 1015,
-    "timeMonth": 839,
+    "time": 529,
+    "timeDay": 140,
+    "timeWeek": 504,
+    "timeMonth": 791,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2024-02-04": 20,
@@ -107,8 +107,7 @@
       "2023-11-27": 6,
       "2023-11-06": 88,
       "2023-03-06": 21,
-      "2023-03-05": 59,
-      "2023-02-12": 27
+      "2023-03-05": 59
     }
   }
 ]
