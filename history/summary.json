@@ -22,19 +22,19 @@
     "url": "https://arm.haglund.dev/api/ids?id=1337&source=anilist",
     "icon": "https://icons.duckduckgo.com/ip3/arm.haglund.dev.ico",
     "slug": "arm-server-arm-haglund-dev",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 9957,
-    "timeWeek": 2609,
-    "timeMonth": 753,
+    "timeDay": 6695,
+    "timeWeek": 2338,
+    "timeMonth": 735,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-09-01": 1
+      "2024-09-01": 6
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeMonth": 1598,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-09-01": 1172,
+      "2024-09-01": 1177,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
