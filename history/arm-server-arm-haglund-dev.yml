@@ -1,7 +1,7 @@
 url: https://arm.haglund.dev/api/ids?id=1337&source=anilist
-status: degraded
+status: up
 code: 200
-responseTime: 19824
-lastUpdated: 2024-09-01T19:30:47.983Z
+responseTime: 171
+lastUpdated: 2024-09-01T19:36:34.984Z
 startTime: 2022-09-28T13:08:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
