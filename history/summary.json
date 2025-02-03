@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 53,
-    "timeWeek": 320,
-    "timeMonth": 324,
-    "timeYear": 325,
+    "timeDay": 438,
+    "timeWeek": 322,
+    "timeMonth": 329,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 77,
-    "timeWeek": 128,
-    "timeMonth": 154,
+    "timeDay": 123,
+    "timeWeek": 122,
+    "timeMonth": 157,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 680,
-    "timeDay": 266,
-    "timeWeek": 397,
-    "timeMonth": 378,
-    "timeYear": 470,
+    "timeDay": 282,
+    "timeWeek": 380,
+    "timeMonth": 357,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2024-05-29": 59
     }
@@ -66,9 +66,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 67,
-    "timeWeek": 128,
+    "time": 127,
+    "timeDay": 136,
+    "timeWeek": 120,
     "timeMonth": 143,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -79,18 +79,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/siege.stratroulette.net.ico",
     "slug": "siege-stratroulette-net",
     "status": "down",
-    "uptime": "73.41%",
+    "uptime": "73.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.49%",
+    "uptimeYear": "38.22%",
     "time": 804,
-    "timeDay": 192,
-    "timeWeek": 804,
-    "timeMonth": 538,
-    "timeYear": 710,
+    "timeDay": 130,
+    "timeWeek": 780,
+    "timeMonth": 532,
+    "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-02-02": 15,
+      "2025-02-03": 14,
+      "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
@@ -315,8 +316,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
-      "2024-06-22": 715,
-      "2024-02-04": 20
+      "2024-06-22": 715
     }
   }
 ]
