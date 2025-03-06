@@ -1,7 +1,7 @@
 url: https://siege.stratroulette.net/graphql?query=%7Bstrat(shortId%3A2)%7BshortId%7D%7D
 status: down
 code: 404
-responseTime: 155
-lastUpdated: 2025-03-05T23:00:38.688Z
+responseTime: 269
+lastUpdated: 2025-03-06T23:00:30.205Z
 startTime: 2022-09-28T13:08:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
